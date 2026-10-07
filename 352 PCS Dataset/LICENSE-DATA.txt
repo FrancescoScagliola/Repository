@@ -1,0 +1,25 @@
+352 PCS Dataset — Data License
+
+Copyright (c) 2026 Francesco Scagliola
+
+Except where otherwise noted, the dataset, metadata, documentation, figures,
+and other non-code research materials contained in this directory are licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Under this license, you are free to share and adapt the material for any purpose,
+including commercial use, provided that appropriate credit is given, a link to
+the license is provided, and any changes are indicated.
+
+License:
+https://creativecommons.org/licenses/by/4.0/
+
+Preferred attribution:
+
+Scagliola, Francesco. (2026).
+352 PCS Dataset: Roughness Measures and Interval-Class Associations
+(Version 1.0) [Dataset].
+Zenodo.
+https://doi.org/10.5281/zenodo.23214708
+
+The source code is not covered by this data license.
+For the source code license, see LICENSE-CODE.txt.
